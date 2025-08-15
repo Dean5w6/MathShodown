@@ -35,6 +35,7 @@ The game features four difficulty levels, each with different types of math prob
 
 #### Combat Animations
 Answer incorrectly or run out of time, and you'll face the consequences!
+![Player Attack Animation](MathShodown/screenshots/PlayerAttack.gif)
 ![Wrong Answer Animation](MathShodown/screenshots/WrongAnswer.gif)
 ![Time's Up Animation](MathShodown/screenshots/Time'sUp.gif)
 
