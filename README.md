@@ -29,6 +29,8 @@ Here's a walkthrough of the game's flow, from the main menu to the final knockou
 #### Difficulty Levels
 The game features four difficulty levels, each with different types of math problems.
 ![Easy Difficulty Gameplay](MathShodown/screenshots/EasyDifficulty.png)
+![Normal Difficulty Gameplay](MathShodown/screenshots/NormalDifficulty.png)
+![Hard Difficulty Gameplay](MathShodown/screenshots/HardDifficulty.png)
 ![Hell Difficulty Gameplay](MathShodown/screenshots/HellDifficulty.png)
 
 #### Combat Animations
