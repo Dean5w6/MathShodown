@@ -33,8 +33,8 @@ The game features four difficulty levels, each with different types of math prob
 ![Hard Difficulty Gameplay](MathShodown/screenshots/HardDifficulty.png)
 ![Hell Difficulty Gameplay](MathShodown/screenshots/HellDifficulty.png)
 
-#### Combat Animations
-Answer incorrectly or run out of time, and you'll face the consequences!
+#### Dynamic Combat Animations
+A correct answer triggers a powerful attack, but be careful—mistakes and delays have consequences!
 ![Player Attack Animation](MathShodown/screenshots/PlayerAttack.gif)
 ![Wrong Answer Animation](MathShodown/screenshots/WrongAnswer.gif)
 ![Time's Up Animation](MathShodown/screenshots/Time'sUp.gif)
