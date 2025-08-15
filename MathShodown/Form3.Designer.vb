@@ -102,7 +102,7 @@ Partial Class Form3
         Me.Label1.Font = New System.Drawing.Font("Sitka Small", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(362, 141)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(185, 40)
+        Me.Label1.Size = New System.Drawing.Size(185, 39)
         Me.Label1.TabIndex = 3
         Me.Label1.Text = "                     "
         '
@@ -311,6 +311,7 @@ Partial Class Form3
         Me.Controls.Add(Me.PictureBox1)
         Me.DoubleBuffered = True
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MinimizeBox = False
         Me.Name = "Form3"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Shodown"
